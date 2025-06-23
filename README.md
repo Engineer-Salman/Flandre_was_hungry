@@ -19,7 +19,7 @@ Perfect for local outreach, PR stunts, or just stalking your next croissant.
   - Phone number
   - Website
   - Email
-- Outputs to `osm_data_ksu.xlsx`
+- Outputs to `Scraped_data_ksu.xlsx`
 
 ---
 
